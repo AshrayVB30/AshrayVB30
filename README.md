@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @AshrayVB30<br>- 👀 I’m interested to make some crazy stuff into reality.<br>- 🌱 I’m currently studying B.E in Computer Science in BNM Institute of Technology, Bengaluru.<br>- 📫 How to reach me https://ashrayportfolio.netlify.app/<br>-
+👋 Hi, I’m @AshrayVB30<br>- 👀 I’m interested to make some crazy stuff into reality.<br>- 🌱 I’m currently studying B.E in Computer Science in BNM Institute of Technology, Bengaluru.<br>- 📫 How to reach me https://ashrayportfolio.netlify.app/<br>
 
 
 ## 🌐 Socials:
