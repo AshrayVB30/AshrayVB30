@@ -1,187 +1,31 @@
-# 👋 Hi, I'm Ashray V B
+<h1 align="center">Hi 👋, I'm Ashray V B</h1>
+<h3 align="center">AI Builder • Full Stack Developer • Startup Enthusiast</h3>
 
-<div align="center">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ashrayvb30&label=Profile%20views&color=0e75b6&style=flat" alt="ashrayvb30" /> </p>
 
-### 🚀 AI Builder • Full Stack Developer • Startup Enthusiast
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashrayvb30" alt="ashrayvb30" /></a> </p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Turning+Crazy+Ideas+Into+Real+Products;Full+Stack+Developer;AI+Product+Builder;Startup+Enthusiast" />
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-</div>
+- 👨‍💻 All of my projects are available at [https://ashrayportfolio.netlify.app/](https://ashrayportfolio.netlify.app/)
 
----
+- Frameworks, courses etc. **React, Node.js, Express.js, TailwindCSS, Bootstrap, Flask, MongoDB, MySQL, Firebase, Docker, Kubernetes, Jenkins, NumPy, Pandas, Matplotlib, Scikit-learn**
 
-# 💫 About Me
+- 📫 How to reach me **vbashray@gmail.com**
 
-🎓 **B.E Computer Science**  
-BNM Institute of Technology, Bengaluru  
+- 📄 Know about my experiences [https://ashrayportfolio.netlify.app/](https://ashrayportfolio.netlify.app/)
 
-🚀 Passionate about building **AI-powered products, scalable web applications, and startup-grade systems**.
-
-💡 I love transforming **innovative ideas into real-world solutions** using modern technologies.
-
-🔭 Currently Building
-
-- 🧠 **SnapSync** — AI-powered social media publishing platform  
-- 🚚 **GigFlow** — Delivery SuperApp for gig workers  
-- 🧠 **MemoAI** — AI meeting memory assistant  
-
-🌱 Currently Exploring
-
-- Generative AI  
-- Distributed Systems  
-- Startup System Architecture  
-
-⚡ Fun fact:  
-I enjoy building **crazy projects that solve real-world problems.**
-
----
-
-# 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://linkedin.com/in/ashrayvb">
-<img src="https://img.shields.io/badge/LinkedIn-AshrayVB-blue?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://x.com/AshrayTweet">
-<img src="https://img.shields.io/badge/X-AshrayTweet-black?style=for-the-badge&logo=x"/>
-</a>
-
-<a href="mailto:vbashray@gmail.com">
-<img src="https://img.shields.io/badge/Email-vbashray%40gmail.com-red?style=for-the-badge&logo=gmail"/>
-</a>
-
-<a href="https://ashrayportfolio.netlify.app">
-<img src="https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=google-chrome"/>
-</a>
-
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/ashrayvb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashrayvb" height="30" width="40" /></a>
+<a href="https://www.topcoder.com/members/560070" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="560070" height="30" width="40" /></a>
 </p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
 
-# 🚀 Featured Projects
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashrayvb30&show_icons=true&locale=en&layout=compact" alt="ashrayvb30" /></p>
 
-### 🧠 SnapSync
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashrayvb30&show_icons=true&locale=en" alt="ashrayvb30" /></p>
 
-AI platform that allows users to **post content to multiple social media platforms with one click**
-
-**Features**
-
-- AI caption generation  
-- Smart hashtag suggestions  
-- AI image enhancement  
-- AI content moderation  
-
-**Tech Stack**  
-React • Node.js • Express • AI APIs
-
----
-
-### 🚚 GigFlow
-
-Delivery **SuperApp for gig workers** integrating multiple delivery platforms.
-
-**Features**
-
-- Multi-platform order management  
-- Delivery partner verification  
-- Order tracking & maps  
-- Target-based earnings tracking  
-
-**Tech Stack**  
-React • Node.js • Maps API • Microservices
-
----
-
-### 🧠 MemoAI
-
-AI assistant that **records, summarizes, and remembers meetings**.
-
-**Features**
-
-- Meeting transcription  
-- AI summaries  
-- Task extraction  
-- Team knowledge base  
-
-**Tech Stack**  
-Python • Node.js • AI APIs • Vector Database
-
----
-
-# 💻 Tech Stack
-
-## Languages
-
-![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=openjdk)
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
-
-## Frontend
-
-![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
-![HTML](https://img.shields.io/badge/HTML-red?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-teal?style=for-the-badge&logo=tailwindcss)
-
-## Backend
-
-![NodeJS](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express.js-black?style=for-the-badge&logo=express)
-
-## Databases
-
-![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb)
-![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
-![Firebase](https://img.shields.io/badge/Firebase-orange?style=for-the-badge&logo=firebase)
-
-## DevOps & Tools
-
-![Git](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
-![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-blue?style=for-the-badge&logo=kubernetes)
-![Jenkins](https://img.shields.io/badge/Jenkins-red?style=for-the-badge&logo=jenkins)
-![Postman](https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=postman)
-
-## Data Science / AI
-
-![NumPy](https://img.shields.io/badge/NumPy-blue?style=for-the-badge&logo=numpy)
-![Pandas](https://img.shields.io/badge/Pandas-purple?style=for-the-badge&logo=pandas)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-black?style=for-the-badge&logo=plotly)
-![Scikit-learn](https://img.shields.io/badge/ScikitLearn-orange?style=for-the-badge&logo=scikitlearn)
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=AshrayVB30&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img src="https://streak-stats.demolab.com/?user=AshrayVB30&theme=tokyonight&hide_border=true"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshrayVB30&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/AshrayVB30/AshrayVB30/output/snake.svg"/>
-</p>
-
----
-
-# 👀 Profile Views
-
-<p align="center">
-<img src="https://visitcount.itsvg.in/api?id=AshrayVB30&icon=5&color=6"/>
-</p>
-
----
-
-⭐ From **Ashray V B**
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashrayvb30&" alt="ashrayvb30" /></p>
