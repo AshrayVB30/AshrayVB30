@@ -12,7 +12,7 @@
 
 ## 💫 About Me
 
-🎓 Computer Science student at **BNM Institute of Technology, Bengaluru**
+🎓 Computer Science student
 🚀 Passionate about building **AI-powered products and scalable full-stack systems**
 💡 I enjoy transforming ideas into **real-world impactful solutions**
 
